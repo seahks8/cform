@@ -6,7 +6,6 @@
 
       const formData = {
         name: document.getElementById('name').value,
-        depart: document.getElementById('depart').value,
         email: document.getElementById('email').value,
         message: document.getElementById('message').value
       };
